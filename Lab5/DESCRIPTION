@@ -1,0 +1,10 @@
+Package: Lab5
+Type: Package
+Title: Google Distance Matrix API 
+Version: 1.0
+Date: 2017-10-04
+Author: Amish Satish and Balaji Ramkumar
+Maintainer: <Amish.Satish93@gmail.com>
+Description: Uses google's distance matrix api to find the distance between two geographical positions. 
+License: GPL-2
+RoxygenNote: 6.0.1.9000
